@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Dhruv 👋
 
-<!--
-**dhruv867/dhruv867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Note (Secondary Account)
+This GitHub account is a **secondary account** created for academic submissions and project sharing.
 
-Here are some ideas to get you started:
+My primary GitHub account is currently under review by GitHub Support and may be temporarily inaccessible publicly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Primary account: https://github.com/dhruvmohan867  
+- Secondary account : https://github.com/dhruv867
+
+Once my primary account is restored, my projects/repositories will be linked and maintained there as the main portfolio account.
+
+---
+
