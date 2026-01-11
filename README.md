@@ -1,14 +1,10 @@
-# Hi, I'm Dhruv 👋
+## Note: GitHub Account Context
 
-## Note (Secondary Account)
-This GitHub account is a **secondary account** created for academic submissions and project sharing.
+This repository is being submitted from my **secondary GitHub account** for academic submission purposes.
 
-My primary GitHub account is currently under review by GitHub Support and may be temporarily inaccessible publicly.
+My primary GitHub account is currently **temporarily inaccessible due to a technical/access issue**, so I’m using this account to ensure my work is publicly available for review.
 
-- Primary account: https://github.com/dhruvmohan867  
-- Secondary account : https://github.com/dhruv867
+- Primary GitHub: https://github.com/dhruvmohan867
+- Submission/Secondary GitHub: https://github.com/dhruv867
 
-Once my primary account is restored, my projects/repositories will be linked and maintained there as the main portfolio account.
-
----
-
+Once access to the primary account is restored, this project will also be mirrored/linked there.
